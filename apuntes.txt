@@ -1,0 +1,70 @@
+14 Noviembre 2022
+Tutora: Vanessa Amaya
+
+Recomendaciones del curso: Leer la documentación que dejaron en el curso
+	- Leer el marco extreme programming: stories
+	- 
+***Clase 1 Introducción al curso***
+¿Qué es una historia de usuario?
+	- Esta describe de manera simple una característica esperada, contada desde la perspectiva de la persona que va usar esa capacidad o funcionalidad
+	- No confundir la persona que solicita la funcionalidad o requerimiento, con la persona que va usar la funcionalidad o el usuario final
+	- Las historias de usuario no vienen de scrum, son del marco ágil Extreme programming: stories
+	- Scrum tiene responsabilidades, eventos y artefactos, pero no tiene ninguna prática
+	- Las historias de usuario son: unidades de funcionalidad visible para el cliente
+	- Extreme programming existe desde antes de scrum y dentro de las metodologías ágiles es muy importante
+	- Cuando aplicamos las historias de usuario bajo el concepto de Extreme programming lo que nos hace es permitir enfocarnos en construir 
+		cosas pequeñas
+	- Cuando empezamos a partir los proyectos o productos en pedazos más fácil es de entender y al mismo tiempo es más fácil de construir
+	- Extreme programming permite romper el paradigma de comunicarnos a través de documentos
+	- Extreme programming nos dice que no es nada más redactar las historias si no también conversar a través de ellas
+
+***Clase 2 Estructura de las historias de usuario***
+
+Ejemplo: Como "usuario" lo que quiero es "funcionalidad" para "beneficio" 
+Criterios de aceptación:
+	- Condición 1
+	- Condición 2
+	- Condición 3
+	- Condición n
+
+- ¿Quién?
+	Va usar la funcionalidad
+- ¿Qué?
+	Qué es lo que especificamente quieren que hagamos
+- ¿Para qué?
+	Cuál es el uso que se le va dar a la funcionalidad
+- Condiciones de calidad
+	Consideraciones de qué se va permitir, qué no se va permitir en función a la calidad de la funcionalidad
+
+Por ejemplo: Como usuario nuevo en el website quiero actualizar mi foto de perfil para actualizar mi avatar,completar mi perfil
+	y con ello sea fácil de identificarme en la red
+
+	Como condiciones: Permitir subir una imágen hasta de 10mb  
+				Permitir mermar resolución de cualquier imagen a 5mb
+
+***Clase 3 ¿Por qué fracasan los esfuerzos de implementar historias de usuario?***
+
+1. Porque falla la simplicidad
+	- Cuando hablamos de historia de usuario estamos hablando en un lenguaje de bajo nivel, es decir, por funcionalidad
+	- Cuando se describen historias de usuario pero a nivel modular, es decir, usan la estructura: usuario, funcionalidad, beneficio, y criterios de aceptación para
+	describir un módulo muy completo, entonces en la funcionalidad se describen varias funcionalidades, y en los criterios, se describen varios criterios
+	esto no está mal, entonces cuando estamos describiendo pero se está revolviendo muchas funcionalidades, se puede dejar así, solo que no se está hablando de 
+	historias de usuario, ahí ya cambia el termino y a eso se le denomina: epica, cuando en un equipo trabajan con pocas historias de usuario
+	se suele entender que están trabajando a nivel epica. 
+2. Se subestima la simplicidad
+	- ¿Para quién?
+		Cuando una historia de usuario no se identifica el tipo de usuario a quién va dirigida la funcionalidad, impacta mucho, y pasa que se descubre otro tipo de usuario
+		demasiado tarde, siempre tener en cuenta para quién estoy trabajando, para quién se hace.
+	- ¿Para qué?
+		Para que se hace lo que se está haciendo
+3. Porque no solo de historias vive Scrum
+	- Backlog: Pila de producto
+	Este significa que todos los elementos que identificamos tienen que hacer y están pendientes de realizar
+	El backlog se compone de elementos de trabajo, y la forma de especificar esos elementos de trabajo es con historias de usuario
+	- Sprint Backlog: 
+
+- Se pueden tener esquemas, anexos, elementos que complementen
+- Uno de los valores importantes que se tiene de scrum que la medida de avance es el software funcionando y no la documentación extensiva
+- Nunca subestimar el conocer el beneficio
+
+	
