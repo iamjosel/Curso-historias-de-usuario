@@ -67,4 +67,142 @@ Por ejemplo: Como usuario nuevo en el website quiero actualizar mi foto de perfi
 - Uno de los valores importantes que se tiene de scrum que la medida de avance es el software funcionando y no la documentación extensiva
 - Nunca subestimar el conocer el beneficio
 
-	
+***Clase 4 Estrategias para poder habilitar HUs de manera efectiva***
+
+- Entendimiento del problema
+	Entender el origen de lo que están pidiendo	
+- Objetivos del negocio
+	Todos ponen o quitan calidad al producto o proyecto
+- Requerimientos técnicos
+	Ambientes, requerimientos para poder entregar productos
+- Requerimientos de transición
+	Todo lo que se necesita hacer para pasar de la etapa de ya terminé a la de ya entregué, entonces se necesitan pasar ciertos vistos buenos, flujos, procesos	
+Propiedad INVEST
+	I: Independient(Independiente)
+		Se trata de que las historias de usuario sean lo más simples e independientes posibles, se puede identificar la independencia en la funcionalidad, no mezclar muchas funcionalidades
+	N: Negociable(Negociable)
+		No siempre lo que se nos ocurra se debe ejecutar obligatoriamente, debe estár la posibilidad de negociar las historias de usuario para organizarlas y priorizarlas
+	V: Valuable(Valiosa)
+		Toda historia de usuario es valiosa, no subestimar el "para qué"
+	E: Estimable(Estimable)
+		Cuánto tiempo y esfuerzo se considera va a llevar la historia de usuario
+	S: Small(Pequeña)
+		Se dice que la historia de usuario debe ser pequeña para incentivar la comunicación, el entendimiento y la conversación, rompiendo con las especificaciones y documentos escritos demasiado largas
+		Se hace pequeña para provocar conversaciones, que aumenten el contexto
+	T: Testeable(Comprobable)
+		Esta propiedad se puede cumplir cuando los criterios de aceptación existen y a través de ellos podemos verificar si esa historia es corecta o incorrecta
+
+Cuando todo urge nada realmente importa
+
+***Clase 5 ¿Qué es un backlog en Scrum? ***
+
+Backlog: Pila de producto
+Es una lista emergente y ordenada de lo que se necesita para mejorar el producto
+- Una mejora apartir de una innovación
+- Una mejora apartir de un problema o correción que se necesite
+
+Agilidad es para entornos de incertidumbre
+
+- La lista de backlog siempre está en movimiento
+- Los backlogs siempre se van ordenando
+- Los backlogs se relacionan mucho con priorizar y planear
+	Planear en qué sprint vamos a hacer qué historia
+Usamos Trello
+- Backlog(sin iniciar)
+- Sprint backlog
+	En ocasiones no se tiene el sprint backlog, todo se gestiona en una sola columna, ya queda a consideración
+
+- En ejecución(En proceso)
+- Terminado
+
+- Cuando estamos identificando los requisitos podemos hacerlo en forma de requisito o de historia de usuario	
+- Cuando digo que tengo un backlog ordenado, me refiero a que tengo elementos de trabajo que cumplen con las características de la historia de usuario, es decir, específico
+	quién, qué, para qué, condiciones de aceptación
+- Como buena práctica a una historia de usuario se le coloca un ID(identificador), dentro del título ponemos la funcionalidad, es decir, el qué
+en la descripción colocamos el quién, qué y para qué
+- A las historias de usuario se les puede colocar etiquetas para identificar a qué módulos pertenece, también se le puede colocar etiqueta de complejidad y etiqueta de dependencia, es decir,
+si esa etiqueta depende de otro requerimiento técnico
+
+***Clase 6 ¿Cómo se refinan los elementos de trabajo del backlog? ***
+
+El refinamiento del backlog es: 
+	Descomponer y definir aún más los elementos de trabajo pendiente del producto en artículos más pequeños y precisos. Esta es una actividad de curso para agregar detalles
+El refinamiento es parte de mantener el backlog: vivo, nutrido, organizado y actualizado
+- Un backlog conforme se va leyendo se va mejorando y organizando
+- Para llegar al sprint planing primero se debe pasar por un primer momento de refinamiento, es decir, cuando llegamos a planear, las historias ya han pasado por un periodo previo de refinamiento
+- Cuando quedan refinadas la historias de usuario se pasan a desarrollo, y si en desarrollo hay alguna pregunta, por ejemplo clarificar algún criterio de aceptación, típicamente estos 
+señalamientos surgen durante las reuniones diarias del scrum donde cada miembro del equipo habla sobre sus avances, y sobretodo al respecto de qué está haciendo más lento o qué está 
+bloqueando su trabajo
+- Muchas veces el no refinamiento de una historia de usuario o mal entendida es causa de bloqueo o de que se vaya más lento de lo previsto
+- Cuando las historias de usuario ya pasan por el refinamiento están listas y se van a planear se pasa a sprint backlog
+- Product owner es reponsable del qué, y el equipo el responsable del cómo
+
+***Clase 7 ¿Cómo hacemos Historias de Usuario a partir listas de requerimientos? ***
+
+Pasos para convertir requerimientos en HUs:
+
+- Se descubren FUNCIONALIDADES en esos requerimientos
+- Para cada una, se identifica el QUIEN (lo usaría)
+- Para cada una se identifica el PARA QUÉ (Beneficio)
+- A cada una se le establecen unos CRITERIOS DE ACEPTACIÓN
+- Finalmente se identifica para cada una si existen REQUISITOS TÉCNICOS o FÓRMULAS que debamos tener en cuenta.
+- Cuando no se dimensiona claramente y no tenemos un entendimiento temprano lo que hacemos es generar re trabajos, re conflictos
+
+***Clase 8 Criterios de aceptación en las Historias de Usuario ***
+
+Son condiciones para la calidad. La calidad tiene mucho que ver con la expectativa, mucho con los detalles.
+
+3 recomendaciones de expectativas para crear los criterios:
+
+Preguntarse: ¿Qué es importante que probemos? Que es importante que nos enfoquemos, que podría salir mal y que es importante que cuidemos → Las respuestas se dan de manera colaborativa.
+Preguntar/se ¿Qué es lo que nos preocupa?: Ayuda a identificar riesgos o amenazas. Suele derivar en criterios de aceptación para agregar a nuestras historias.
+Preguntar: Qué más necesita saber el equipo? → En colaboración, conocer la experiencia de los colaboradores. Aquí también suele dar hincapié a hacer refinamiento.
+
+¿Qué es importante que probemos?
+	- Qué podría salir mal, en qué es importante que nos enfoquemos 
+	- Recordar que una historia de usuario debe ser conversada
+¿Qué es lo que nos preocupa?
+	- Preguntar que nos preocupa de cierta funcionalidad
+
+***Clase 9 ¿Cómo se priorizan las Historias de Usuario? ***
+- Aprender prácticas de priorización
+- La priorización también es importante hacerla colaborativa
+
+Cuando se categoriza se toma en cuenta dos perspectivas:
+	- La aportación que tiene al negocio
+		- transaccional o monetario
+		- reducir tiempo o costo
+		- integrarnos o conectarnos con alguna plataforma o tecnología	
+	- Aportación al usuario
+		- Cuando se mejora la interfaz
+		- Cuando se le da una funcionalidad que al usuario lo va entretener o lo va a premiar
+
+Muy importante la sinergia entre valor de negocio y complejidad técnica
+
+- Cualquier decisión en función a priorización la tenemos que colocar en el tablero 
+	Se puede priorizar por posición o por etiqueta
+		Subir aquellas que tienen prioridad alta, entonces se puede aprovechar las etiquetas que tienen los tableros para identificar el nivel de prioridad
+
+***Clase 10 Primeros pasos para habilitar las historias de usuario ***
+
+Primeros Pasos para habilitar Historias de Usuario
+
+Identifica Barreras en tu Equipo/Empresa:
+	- Resistencia al contexto en partes.
+		- Se refiere a que estamos acostumbrados a documentos muy largos, extensos	
+	- Costumbre de los Casos de Uso.
+		- El caso de uso es un documento detallado en el que vienen escenarios, diagramas, todo junto de cada una de las funcionalidades pero a nivel muy detallado
+		- Uso de este tipo de documentación para proyectos en cascada		
+
+Identifica Barreras en ti:
+	- Conocimiento: Identificar que otra cosa necesitamos saber o conocer para sentirnos más seguro para proponer el cambio dentro del equipo.
+	- Habilidades: La negociación y la comunicación. 
+	- La redacción.
+
+Recomendaciones generales:
+	- Cambia la forma de conversar - Cambia la forma de gestionar: Incluir el VALOR, CALIDAD y FACTIBILIDAD(negocio y técnica).
+	- Escucha con más atención y pregunta más: Hacer escucha activa y atrevernos a preguntar.
+	- Trabaja por Timebox: Dedicar tiempo a la creación del primer backlog (Análisis).
+	Timebox para planear, para desarollar, daily scrum, incluir un timebox para análisis
+
+
